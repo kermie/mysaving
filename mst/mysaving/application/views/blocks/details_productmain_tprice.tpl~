@@ -1,0 +1,13 @@
+[{$smarty.block.parent}]
+
+[{*if there is no saving do not output anything*}]
+
+[{assign var="saving" value=$oDetailsProduct->getMySaving()}]
+[{if $saving > '' }]
+        <span class="saving">[{oxmultilang ident="MST_MYSAVING_PERCENTSAVED" args=$saving}]</span>
+[{/if}]
+
+[{*do not do this, performance killer (because getMySaving() would be called twice :-)*}]
+[{*if $oDetailsProduct->getMySaving() }]
+    [{oxmultilang ident="MST_MYSAVING_PERCENTSAVED" args=$oDetailsProduct->getMySaving()}]
+[{/if*}]
