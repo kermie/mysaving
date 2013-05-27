@@ -6,10 +6,10 @@ Display “You will save x %” on the product details page in OXID eShop
 This is a plug-and-play working module for displaying the saving in percent if you entered a real price and the recommended retail price (RRP) in your OXID eShop. 
 The module was developed on the basis of OXID eShop version 4.7.3 and is an example for how to write modules for OXID eShop version 4.7 and above.
 
-Please find the article with explanations on my personal blog:<br>
+Please find the article with detailed explanations on my personal blog:<br>
 http://www.marco-steinhaeuser.de/how-to-write-a-module-for-oxid-eshop-display-you-will-save-x-on-the-product-details-page.html
 
-![Image alt](mst/mysaving/thumb.png)
+![Image alt](screen.png)
 
 ###License:
 
