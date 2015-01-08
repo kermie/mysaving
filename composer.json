@@ -1,5 +1,5 @@
 {
-"name": "kermie/oxid-mysaving",
+"name": "kermie/mysaving",
 "description": "Display “You will save x %” on the product details page in OXID eShop",
 "type": "oxid-module",
 "license": "GPL-3.0",
