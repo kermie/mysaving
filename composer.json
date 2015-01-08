@@ -6,7 +6,7 @@
 "require": {
 "php": ">=5.3.3",
 "composer/installers": "~1.0",
-"OXID eShop": ">=4.7",
-"OXID eShop": "<=4.8"
+"OXID_eShop": ">=4.7",
+"OXID_eShop": "<=4.8"
 }
 }
