@@ -29,5 +29,5 @@ $sLangName  = "Русский";
 // -------------------------------
 $aLang = array(
     'charset' => 'utf-8',
-    'MST_MYSAVING_PERCENTSAVED' => 'Вы копите %s&#37;',
+    'MST_MYSAVING_PERCENTSAVED' => 'Вы экономите %s&#37;',
 );
